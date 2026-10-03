@@ -200,3 +200,5 @@ joblib.dump(rf_pipeline, model_path)
 print("=" * 100)
 print(f"Model saved successfully at: {model_path.resolve()}")
 print("=" * 100)
+
+
